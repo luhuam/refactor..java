@@ -21,6 +21,6 @@ public class Refactor_java {
     if (!result.equals(expected)) {
       throw new AssertionError("Expected: " + System.lineSeparator() + String.format(expected) + System.lineSeparator() + System.lineSeparator() + "Got: " + System.lineSeparator() + result);
     }
-    logger.log("Success");
+    System.out.println("Success");
   }
 }
