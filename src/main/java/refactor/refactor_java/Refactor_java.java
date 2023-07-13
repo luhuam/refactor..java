@@ -11,7 +11,7 @@ import java.util.Arrays;
  *
  * @author DELL
  */
-public class Refactor_java {
+public class Refactorjava {
 
     public static void main(String[] args) {
     String expected = "Rental Record for C. U. Stomer\n\tYou've Got Mail\t3.5\n\tMatrix\t2.0\nAmount owed is 5.5\nYou earned 2 frequent points\n";
